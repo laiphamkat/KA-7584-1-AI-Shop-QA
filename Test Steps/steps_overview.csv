@@ -1,11 +1,11 @@
 Flow ID,Test Steps,Flow Priority
-2,"step 1: Do navigate at Page_cart
-step 2: Add visual checkpoint at Page_cart",High
-4,"step 1: Do navigate at Page_checkout_info
-step 2: Add visual checkpoint at Page_checkout_info",Trivial
-1,"step 1: Do navigate at Page_home
-step 2: Add visual checkpoint at Page_home",Trivial
-3,"step 1: Do navigate at Page_checkout_shipping-address
-step 2: Add visual checkpoint at Page_checkout_shipping-address",Trivial
-5,"step 1: Do navigate at Page_checkout_payment
-step 2: Add visual checkpoint at Page_checkout_payment",Trivial
+2,"step 1: Navigate to Page cart
+step 2: Add visual checkpoint at Page cart",High
+5,"step 1: Navigate to Page checkout payment
+step 2: Add visual checkpoint at Page checkout payment",Trivial
+3,"step 1: Navigate to Page checkout shipping-address
+step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
+4,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Trivial
+1,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",Trivial
