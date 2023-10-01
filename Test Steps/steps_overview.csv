@@ -1,11 +1,13 @@
 Flow ID,Test Steps,Flow Priority
 2,"step 1: Navigate to Page cart
 step 2: Add visual checkpoint at Page cart",High
-5,"step 1: Navigate to Page checkout payment
-step 2: Add visual checkpoint at Page checkout payment",Trivial
-3,"step 1: Navigate to Page checkout shipping-address
+4,"step 1: Navigate to Page checkout shipping-address
 step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
-4,"step 1: Navigate to Page checkout info
-step 2: Add visual checkpoint at Page checkout info",Trivial
+3,"step 1: Navigate to Page product chekhol-santa-matreshka
+step 2: Add visual checkpoint at Page product chekhol-santa-matreshka",Trivial
 1,"step 1: Navigate to Page home
 step 2: Add visual checkpoint at Page home",Trivial
+6,"step 1: Navigate to Page checkout payment
+step 2: Add visual checkpoint at Page checkout payment",Trivial
+5,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Trivial

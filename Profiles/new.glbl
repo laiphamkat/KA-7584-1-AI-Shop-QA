@@ -2,11 +2,11 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'''https://laipham-ai-shop.netlify.app'''</initValue>
+        <initValue>''https://laipham-ai-shop.netlify.app''</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
     <defaultProfile>False</defaultProfile>
     <description></description>
-    <name>qa</name>
+    <name>new</name>
     <tag></tag>
 </GlobalVariableEntities>
