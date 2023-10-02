@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/chekhol-santa-
 
 'step 2: Add visual checkpoint at Page product chekhol-santa-matreshka'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Product Page Navigation for Chekhol Santa Matreshka_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Product Page Navigation and Display for Chekhol Santa Matreshka_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

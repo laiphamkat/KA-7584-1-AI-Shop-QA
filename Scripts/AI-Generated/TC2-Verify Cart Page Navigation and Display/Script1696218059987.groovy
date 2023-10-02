@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page checkout payment'
+'step 1: Navigate to Page cart'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/payment')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/cart')
 
-'step 2: Add visual checkpoint at Page checkout payment'
+'step 2: Add visual checkpoint at Page cart'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC6-Verify Payment Page Navigation in Checkout_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Cart Page Navigation and Display_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

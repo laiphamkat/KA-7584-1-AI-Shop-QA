@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/shipping-addr
 
 'step 2: Add visual checkpoint at Page checkout shipping-address'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Shipping Address Page Navigation in Checkout_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Shipping Address Page Navigation and Display in Checkout_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
