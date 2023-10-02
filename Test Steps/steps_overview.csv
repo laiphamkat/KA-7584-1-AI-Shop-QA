@@ -1,13 +1,13 @@
 Flow ID,Description,Test Steps,Flow Priority
 2,Verify Cart Page Navigation and Display,"step 1: Navigate to Page cart
 step 2: Add visual checkpoint at Page cart",High
-4,Verify Shipping Address Page Navigation and Display in Checkout,"step 1: Navigate to Page checkout shipping-address
+4,Verify Shipping Address Page Navigation and Display,"step 1: Navigate to Page checkout shipping-address
 step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
-3,Verify Product Page Navigation and Display for Chekhol Santa Matreshka,"step 1: Navigate to Page product chekhol-santa-matreshka
+5,Verify Checkout Information Page Navigation and Display,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Trivial
+3,Verify Product Page Chekhol Santa Matreshka Navigation and Display,"step 1: Navigate to Page product chekhol-santa-matreshka
 step 2: Add visual checkpoint at Page product chekhol-santa-matreshka",Trivial
 1,Verify Home Page Navigation and Display,"step 1: Navigate to Page home
 step 2: Add visual checkpoint at Page home",Trivial
-6,Verify Payment Page Navigation and Display in Checkout,"step 1: Navigate to Page checkout payment
+6,Verify Payment Page Navigation and Display,"step 1: Navigate to Page checkout payment
 step 2: Add visual checkpoint at Page checkout payment",Trivial
-5,Verify Checkout Information Page Navigation and Display,"step 1: Navigate to Page checkout info
-step 2: Add visual checkpoint at Page checkout info",Trivial
