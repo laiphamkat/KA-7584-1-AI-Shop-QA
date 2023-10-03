@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page home'
+'step 1: Navigate to Page category chekhly-dlya-samsung'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/chekhly-dlya-samsung')
 
-'step 2: Add visual checkpoint at Page home'
+'step 2: Add visual checkpoint at Page category chekhly-dlya-samsung'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Home Page Navigation and Display_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Category Page Navigation Chekhly Dlya Samsung_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

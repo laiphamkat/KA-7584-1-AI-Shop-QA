@@ -1,13 +1,23 @@
 Flow ID,Description,Test Steps,Flow Priority
-2,Verify Cart Page Navigation and Display,"step 1: Navigate to Page cart
+2,Verify Cart Page Navigation,"step 1: Navigate to Page cart
 step 2: Add visual checkpoint at Page cart",High
-4,Verify Shipping Address Page Navigation and Display,"step 1: Navigate to Page checkout shipping-address
-step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
-5,Verify Checkout Information Page Navigation and Display,"step 1: Navigate to Page checkout info
+7,Verify Category Page Navigation Chekhly Na Iphone,"step 1: Navigate to Page category chekhly-na-iphone
+step 2: Add visual checkpoint at Page category chekhly-na-iphone",High
+11,Verify Product Page Navigation Chekhol Tetrad,"step 1: Navigate to Page product chekhol-tetrad
+step 2: Add visual checkpoint at Page product chekhol-tetrad",High
+9,Verify Checkout Information Page Navigation,"step 1: Navigate to Page checkout info
 step 2: Add visual checkpoint at Page checkout info",Trivial
-3,Verify Product Page Chekhol Santa Matreshka Navigation and Display,"step 1: Navigate to Page product chekhol-santa-matreshka
-step 2: Add visual checkpoint at Page product chekhol-santa-matreshka",Trivial
-1,Verify Home Page Navigation and Display,"step 1: Navigate to Page home
+8,Verify Shipping Address Page Navigation,"step 1: Navigate to Page checkout shipping-address
+step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
+5,Verify Category Page Navigation Iphone7 Plus,"step 1: Navigate to Page category iphone-7-plus
+step 2: Add visual checkpoint at Page category iphone-7-plus",Trivial
+4,Verify Product Page Navigation Chekhol Explorer Wanted,"step 1: Navigate to Page product chekhol-explorer-wanted
+step 2: Add visual checkpoint at Page product chekhol-explorer-wanted",Trivial
+1,Verify Home Page Navigation,"step 1: Navigate to Page home
 step 2: Add visual checkpoint at Page home",Trivial
-6,Verify Payment Page Navigation and Display,"step 1: Navigate to Page checkout payment
+10,Verify Payment Page Navigation,"step 1: Navigate to Page checkout payment
 step 2: Add visual checkpoint at Page checkout payment",Trivial
+3,Verify Category Page Navigation Chekhly Dlya Samsung,"step 1: Navigate to Page category chekhly-dlya-samsung
+step 2: Add visual checkpoint at Page category chekhly-dlya-samsung",Trivial
+6,Verify Product Page Navigation Chekhol Santa Matreshka,"step 1: Navigate to Page product chekhol-santa-matreshka
+step 2: Add visual checkpoint at Page product chekhol-santa-matreshka",Trivial
