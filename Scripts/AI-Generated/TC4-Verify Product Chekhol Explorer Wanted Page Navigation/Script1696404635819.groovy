@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/chekhol-explor
 
 'step 2: Add visual checkpoint at Page product chekhol-explorer-wanted'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Product Page Navigation Chekhol Explorer Wanted_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Product Chekhol Explorer Wanted Page Navigation_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

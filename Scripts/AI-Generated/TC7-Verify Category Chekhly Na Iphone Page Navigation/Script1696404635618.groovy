@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/chekhly-na-ip
 
 'step 2: Add visual checkpoint at Page category chekhly-na-iphone'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC7-Verify Category Page Navigation Chekhly Na Iphone_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC7-Verify Category Chekhly Na Iphone Page Navigation_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page checkout shipping-address'
+'step 1: Navigate to Page product chekhol-tetrad'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/shipping-address')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/chekhol-tetrad')
 
-'step 2: Add visual checkpoint at Page checkout shipping-address'
+'step 2: Add visual checkpoint at Page product chekhol-tetrad'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC8-Verify Shipping Address Page Navigation_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC11-Verify Product Chekhol Tetrad Page Navigation_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

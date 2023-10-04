@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page product chekhol-santa-matreshka'
+'step 1: Navigate to Page checkout shipping-address'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/chekhol-santa-matreshka')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/shipping-address')
 
-'step 2: Add visual checkpoint at Page product chekhol-santa-matreshka'
+'step 2: Add visual checkpoint at Page checkout shipping-address'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC6-Verify Product Page Navigation Chekhol Santa Matreshka_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC8-Verify Shipping Address Checkout Page Navigation_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

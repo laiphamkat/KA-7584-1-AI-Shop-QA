@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page category chekhly-dlya-samsung'
+'step 1: Navigate to Page category iphone-7-plus'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/chekhly-dlya-samsung')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/iphone-7-plus')
 
-'step 2: Add visual checkpoint at Page category chekhly-dlya-samsung'
+'step 2: Add visual checkpoint at Page category iphone-7-plus'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Category Page Navigation Chekhly Dlya Samsung_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Category Iphone7 Plus Page Navigation_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

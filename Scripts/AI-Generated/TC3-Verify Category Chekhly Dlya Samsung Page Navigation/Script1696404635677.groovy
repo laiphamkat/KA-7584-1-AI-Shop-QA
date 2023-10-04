@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page product chekhol-tetrad'
+'step 1: Navigate to Page category chekhly-dlya-samsung'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/chekhol-tetrad')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/chekhly-dlya-samsung')
 
-'step 2: Add visual checkpoint at Page product chekhol-tetrad'
+'step 2: Add visual checkpoint at Page category chekhly-dlya-samsung'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC11-Verify Product Page Navigation Chekhol Tetrad_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Category Chekhly Dlya Samsung Page Navigation_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
