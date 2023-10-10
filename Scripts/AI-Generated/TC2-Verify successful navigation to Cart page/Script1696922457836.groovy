@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page product chekhol-explorer-wanted'
+'step 1: Navigate to Page cart'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/chekhol-explorer-wanted')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/cart')
 
-'step 2: Add visual checkpoint at Page product chekhol-explorer-wanted'
+'step 2: Add visual checkpoint at Page cart'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Product Chekhol Explorer Wanted Page Navigation_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify successful navigation to Cart page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
