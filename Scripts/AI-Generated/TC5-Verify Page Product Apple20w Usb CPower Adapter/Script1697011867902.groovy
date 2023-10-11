@@ -1,5 +1,5 @@
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/apple-20w-usb-
 
 'step 2: Add visual checkpoint at Page product apple-20w-usb-c-power-adapter'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Product Apple20 w Usb C Power Adapter Page Successfully Loaded_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Page Product Apple20w Usb CPower Adapter_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

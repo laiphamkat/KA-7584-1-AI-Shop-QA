@@ -1,5 +1,5 @@
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page checkout payment'
+'step 1: Navigate to Page checkout'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/payment')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout')
 
-'step 2: Add visual checkpoint at Page checkout payment'
+'step 2: Add visual checkpoint at Page checkout'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC8-Verify Checkout Payment Page Successfully Loaded_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Page Checkout_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
