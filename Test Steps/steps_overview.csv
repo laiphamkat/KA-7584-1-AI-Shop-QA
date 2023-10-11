@@ -1,13 +1,18 @@
 Flow ID,Description,Test Steps,Flow Priority
-2,Verify successful navigation to Cart page,"step 1: Navigate to Page cart
-step 2: Add visual checkpoint at Page cart",High
-4,Verify successful navigation to Checkout Shipping Address page,"step 1: Navigate to Page checkout shipping-address
-step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
-3,Verify successful navigation to Product page Chekhol Santa Matreshka,"step 1: Navigate to Page product chekhol-santa-matreshka
-step 2: Add visual checkpoint at Page product chekhol-santa-matreshka",Trivial
-6,Verify successful navigation to Checkout Payment page,"step 1: Navigate to Page checkout payment
-step 2: Add visual checkpoint at Page checkout payment",Trivial
-5,Verify successful navigation to Checkout Information page,"step 1: Navigate to Page checkout info
-step 2: Add visual checkpoint at Page checkout info",Trivial
-1,Verify successful navigation to Home page,"step 1: Navigate to Page home
-step 2: Add visual checkpoint at Page home",Trivial
+1,Verify Page Category Chekhly Na Iphone Successfully Loaded,"step 1: Navigate to Page category chekhly-na-iphone
+step 2: At Page category chekhly-na-iphone click on button object
+step 3: Add visual checkpoint at Page category chekhly-na-iphone",High
+7,Verify Checkout Shipping Address Page Successfully Loaded,"step 1: Navigate to Page checkout shipping-address
+step 2: Add visual checkpoint at Page checkout shipping-address",Medium
+3,Verify Cart Page Successfully Loaded,"step 1: Navigate to Page cart
+step 2: Add visual checkpoint at Page cart",Medium
+8,Verify Checkout Payment Page Successfully Loaded,"step 1: Navigate to Page checkout payment
+step 2: Add visual checkpoint at Page checkout payment",Medium
+5,Verify Product Apple20 w Usb C Power Adapter Page Successfully Loaded,"step 1: Navigate to Page product apple-20w-usb-c-power-adapter
+step 2: Add visual checkpoint at Page product apple-20w-usb-c-power-adapter",Low
+4,Verify Checkout Page Successfully Loaded,"step 1: Navigate to Page checkout
+step 2: Add visual checkpoint at Page checkout",Low
+6,Verify Checkout Info Page Successfully Loaded,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Low
+2,Verify Home Page Successfully Loaded,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",Low

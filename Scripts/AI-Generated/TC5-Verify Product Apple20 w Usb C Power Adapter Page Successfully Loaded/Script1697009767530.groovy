@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page checkout info'
+'step 1: Navigate to Page product apple-20w-usb-c-power-adapter'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/info')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/apple-20w-usb-c-power-adapter')
 
-'step 2: Add visual checkpoint at Page checkout info'
+'step 2: Add visual checkpoint at Page product apple-20w-usb-c-power-adapter'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify successful navigation to Checkout Information page_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Product Apple20 w Usb C Power Adapter Page Successfully Loaded_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

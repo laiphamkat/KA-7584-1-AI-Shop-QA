@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page checkout shipping-address'
+'step 1: Navigate to Page checkout info'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/shipping-address')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/info')
 
-'step 2: Add visual checkpoint at Page checkout shipping-address'
+'step 2: Add visual checkpoint at Page checkout info'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify successful navigation to Checkout Shipping Address page_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC6-Verify Checkout Info Page Successfully Loaded_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
