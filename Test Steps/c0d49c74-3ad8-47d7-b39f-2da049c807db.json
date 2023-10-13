@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page category apple",
+        "step 2: At Page category apple click on hyperlink category samsung --> navigate to Page category samsung",
+        "step 3: At Page category samsung click on hyperlink category google pixel --> navigate to Page category google-pixel",
+        "step 4: Add visual checkpoint at Page category google-pixel"
+    ]
+}

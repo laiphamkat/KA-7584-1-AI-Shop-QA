@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page category chekhly-na-iphone",
+        "step 2: At Page category chekhly-na-iphone click on button object",
+        "step 3: At Page category chekhly-na-iphone click on hyperlink cart --> navigate to Page cart",
+        "step 4: At Page cart click on button object --> navigate to Page checkout info",
+        "step 5: Add visual checkpoint at Page checkout info"
+    ]
+}
