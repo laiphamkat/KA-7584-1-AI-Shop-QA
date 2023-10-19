@@ -1,6 +1,6 @@
+import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.model.FailureHandling
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 'Initialize test session: Open browser and set view port'
@@ -209,7 +209,7 @@ WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyMatch(WebUI.getUrl(), '.*/checkout/shipping-address(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.selectOptionByValue(testObj, '28', false)
+WebUI.selectOptionByValue(testObj, '123', false)
 
 'step 16: At Page checkout shipping-address input on input object'
 
@@ -321,7 +321,7 @@ WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyMatch(WebUI.getUrl(), '.*/checkout/shipping-address(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.selectOptionByValue(testObj, '213', false)
+WebUI.selectOptionByValue(testObj, '133', false)
 
 'step 24: At Page checkout shipping-address click on button object --> navigate to Page checkout payment'
 
@@ -351,7 +351,7 @@ WebUI.verifyMatch(WebUI.getUrl(), '.*/checkout/payment(?:#.*)?(?:\\?.*)?$', true
 
 WebUI.enhancedClick(testObj)
 
-'step 26: At Page checkout payment click on button object --> navigate to Page thank-you-3c65-4108-b172-c7ccf1684056'
+'step 26: At Page checkout payment click on button object --> navigate to Page thank-you e6ea6913-b054-420c-a7d7-37b1bd4261f'
 
 testObj = findTestObject('Object Repository/Page_checkout_payment/button_object')
 
@@ -365,9 +365,9 @@ WebUI.verifyMatch(WebUI.getUrl(), '.*/checkout/payment(?:#.*)?(?:\\?.*)?$', true
 
 WebUI.enhancedClick(testObj)
 
-'step 27: Add visual checkpoint at Page thank-you-3c65-4108-b172-c7ccf1684056'
+'step 27: Add visual checkpoint at Page thank-you e6ea6913-b054-420c-a7d7-37b1bd4261f'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Successful Checkout Process with Input and Selection of Objects_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Successful Checkout Process with Shipping and Payment Information_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

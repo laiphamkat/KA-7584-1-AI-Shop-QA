@@ -25,7 +25,7 @@
         "step 23: At Page checkout shipping-address select on select object",
         "step 24: At Page checkout shipping-address click on button object --> navigate to Page checkout payment",
         "step 25: At Page checkout payment click on input object",
-        "step 26: At Page checkout payment click on button object --> navigate to Page thank-you-3c65-4108-b172-c7ccf1684056",
-        "step 27: Add visual checkpoint at Page thank-you-3c65-4108-b172-c7ccf1684056"
+        "step 26: At Page checkout payment click on button object --> navigate to Page thank-you e6ea6913-b054-420c-a7d7-37b1bd4261f",
+        "step 27: Add visual checkpoint at Page thank-you e6ea6913-b054-420c-a7d7-37b1bd4261f"
     ]
 }
