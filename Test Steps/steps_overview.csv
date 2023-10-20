@@ -1,40 +1,40 @@
 Flow ID,Description,Test Steps,Flow Priority
-2,Verify Successful Checkout Process with Shipping and Payment Information,"step 1: Navigate to Page category power-and-cables
+2,Verify Successful Checkout Process with Shipping Address and Payment Method,"step 1: Navigate to Page category power-and-cables
 step 2: At Page category power-and-cables click on button object
 step 3: At Page category power-and-cables click on hyperlink cart --> navigate to Page cart
 step 4: At Page cart click on button object --> navigate to Page checkout info
-step 5: At Page checkout info input on input object
-step 6: At Page checkout info click on input object
+step 5: At Page checkout info input on input r0
+step 6: At Page checkout info click on input receive marketing info
 step 7: At Page checkout info click on button object --> navigate to Page checkout shipping-address
 step 8: At Page checkout shipping-address click on span object
-step 9: At Page checkout shipping-address input on input object
-step 10: At Page checkout shipping-address input on input object
-step 11: At Page checkout shipping-address input on input object
-step 12: At Page checkout shipping-address input on input object
-step 13: At Page checkout shipping-address input on input object
-step 14: At Page checkout shipping-address input on input object
-step 15: At Page checkout shipping-address select on select object
-step 16: At Page checkout shipping-address input on input object
-step 17: At Page checkout shipping-address input on input object
-step 18: At Page checkout shipping-address input on input object
-step 19: At Page checkout shipping-address input on input object
-step 20: At Page checkout shipping-address input on input object
-step 21: At Page checkout shipping-address input on input object
-step 22: At Page checkout shipping-address input on input object
-step 23: At Page checkout shipping-address select on select object
+step 9: At Page checkout shipping-address input on input r2
+step 10: At Page checkout shipping-address input on input r3
+step 11: At Page checkout shipping-address input on input r4
+step 12: At Page checkout shipping-address input on input r5
+step 13: At Page checkout shipping-address input on input r6
+step 14: At Page checkout shipping-address input on input r7
+step 15: At Page checkout shipping-address select on select r8
+step 16: At Page checkout shipping-address input on input r9
+step 17: At Page checkout shipping-address input on input ra
+step 18: At Page checkout shipping-address input on input rb
+step 19: At Page checkout shipping-address input on input rc
+step 20: At Page checkout shipping-address input on input rd
+step 21: At Page checkout shipping-address input on input re
+step 22: At Page checkout shipping-address input on input rf
+step 23: At Page checkout shipping-address select on select rg
 step 24: At Page checkout shipping-address click on button object --> navigate to Page checkout payment
-step 25: At Page checkout payment click on input object
-step 26: At Page checkout payment click on button object --> navigate to Page thank-you e6ea6913-b054-420c-a7d7-37b1bd4261f
-step 27: Add visual checkpoint at Page thank-you e6ea6913-b054-420c-a7d7-37b1bd4261f",High
+step 25: At Page checkout payment click on input payment method id
+step 26: At Page checkout payment click on button object --> navigate to Page thank-youf7aef63-4e7e-4d68-83a6-33de70811c19
+step 27: Add visual checkpoint at Page thank-youf7aef63-4e7e-4d68-83a6-33de70811c19",High
+1,Verify Successful Navigation to Home Page,"step 1: Navigate to Page home
+step 2: At Page home click on button object
+step 3: Add visual checkpoint at Page home",Medium
 3,Verify Successful Navigation to Apple Category Page,"step 1: Navigate to Page category apple
 step 2: At Page category apple click on button object
 step 3: At Page category apple click on label object
 step 4: At Page category apple click on label object
 step 5: At Page category apple click on button object
 step 6: Add visual checkpoint at Page category apple",Medium
-1,Verify Successful Navigation to Home Page,"step 1: Navigate to Page home
-step 2: At Page home click on button object
-step 3: Add visual checkpoint at Page home",Medium
 6,Verify Successful Navigation to Checkout Information Page,"step 1: Navigate to Page checkout info
 step 2: Add visual checkpoint at Page checkout info",Trivial
 5,Verify Successful Navigation to Checkout Page,"step 1: Navigate to Page checkout
