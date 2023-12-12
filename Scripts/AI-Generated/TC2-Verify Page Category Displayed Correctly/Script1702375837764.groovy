@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/123')
 
 'step 2: Add visual checkpoint at Page category'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Page Category Successfully Loaded_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Page Category Displayed Correctly_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
