@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to https://testops.qa.katalon.com/graphics/svg pattern.asp",
+        "step 2: Click on svg",
+        "step 3: Click on svg",
+        "step 4: Click on p",
+        "step 5: Click on link '\u276e Previous' -> Navigate to page 'graphics/svg clipping masking.asp'",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to https://testops.qa.katalon.com/organization/7584/settings/truetest/6075",
+        "step 2: Click on svg",
+        "step 3: Click on link 'HTML Canvas' -> Navigate to page 'graphics/svg intro.asp'",
+        "step 4: Click on link 'SVG Patterns' -> Navigate to page 'graphics/svg pattern.asp'",
+        "step 5: Take full page screenshot as checkpoint"
+    ]
+}
